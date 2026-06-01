@@ -34,6 +34,9 @@
 # Jetbrains Rider personal-layer settings
 *.DotSettings.user
 
+# Visual Studio configuration file
+.vsconfig
+
 # Visual Studio cache directory
 .vs/
 
@@ -104,3 +107,4 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
